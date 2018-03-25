@@ -4,6 +4,8 @@
 
 This uses a ternary operator to evaluate if the string 4 is the same as the integer 4. Since this is false, the code to the right of ':' is evaluated and "FALSE" is output on the screen. 
 
+
+
 ```
 x = 2
 if ((x * 3) / 2) == (4 + 4 - x - 3)
@@ -14,6 +16,8 @@ end
 ```
 
 Each side of this expression equals 3 therefore `((x * 3) / 2)` does equal `(4 + 4 - x - 3)` and "Did you get it right?" is output on the screen.
+
+
 
 ```
 y = 9
