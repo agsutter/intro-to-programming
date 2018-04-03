@@ -1,0 +1,1 @@
+Use ```arr.last.first``` to return "example" from the array ```arr = [["test", "hello", "world"],["example", "mem"]]```.
