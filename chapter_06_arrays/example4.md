@@ -1,4 +1,5 @@
 What does each method return in the following example?
+
 ```
 arr = [15, 7, 18, 5, 12, 8, 5, 1]
 ```
@@ -13,7 +14,7 @@ This example is asking for the index number for the object 5 in the array. 5 is 
 arr.index[5]
 ```
 => error message
-This example gives an error message because this method is used find the index equal to the given argument, not array elements (which use '[]' as opposed to '()' ).
+This example gives an error message because this method is used find the index equal to the given argument, not array element at a given index (which use '[]' as opposed to '()' ).
 
 ```
 arr[5]
