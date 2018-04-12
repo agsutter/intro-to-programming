@@ -1,0 +1,9 @@
+# Get rid of "11" in exercise4 and append a "3".
+
+array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+
+array.delete(11)
+
+array << 3
+
+p array
